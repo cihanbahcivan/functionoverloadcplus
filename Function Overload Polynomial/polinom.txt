@@ -1,0 +1,10 @@
+polinom1 3,0,5,7
+polinom2 6,8,-2
+polinom3 -1,0,8
+polinom4 2,-1,-1,0,-3
+polinom5 1,2,5,4
+polinom6 -1,2,-1,3
+polinom7 -3,2,-8,1,2
+polinom8 4,-2,-9,2,8
+polinom9 9,0,0,1
+polinom10 -2,0,3
